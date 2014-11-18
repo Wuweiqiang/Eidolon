@@ -1,0 +1,9 @@
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\bin\Debug\WmWeiXin.exe
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\bin\Debug\WmWeiXin.pdb
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\obj\Debug\ResolveAssemblyReference.cache
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\obj\Debug\WmWeiXin.MainForm.resources
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\obj\Debug\WmWeiXin.Properties.Resources.resources
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\obj\Debug\WmWeiXin.csproj.GenerateResource.Cache
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\obj\Debug\WmWeiXin.exe
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\obj\Debug\WmWeiXin.pdb
+G:\Wwq\GitHub\WmWeiXin\WmWeiXin\bin\Debug\Accounts.xml
